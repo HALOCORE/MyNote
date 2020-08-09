@@ -1,0 +1,1 @@
+# This folder should link to private notes. Not visible in the public repo.
