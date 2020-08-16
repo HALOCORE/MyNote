@@ -1,3 +1,4 @@
 MyNotePrivate
-output
+output/*
+!output/summary.md
 .vscode
