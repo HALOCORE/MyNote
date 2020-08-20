@@ -11,6 +11,8 @@
 - [Powershell](../notes/2020-08-13-052321.md)
 - [WSL2](../notes/2020-08-19-081845.md)
 - [Microsoft Research Talk: Type Driven Program Synthesis](../notes/2020-08-20-012504.md)
+- [Resources: LLVM](../notes/2020-08-20-013203.md)
+- [YouTube: Introduction to LLVM Building simple program analysis tools and instrumentation](../notes/2020-08-20-032306.md)
 - [PLDI 19: Resource-Guided Program Synthesis](../notes/2020-08-20-094002.md)
 - [Microsoft Research Talk: Program Synthesis meets Machine Learning](../notes/2020-08-20-101317.md)
 - [YouTube video: Analyzing Programs with Z3](../notes/2020-08-20-112827.md)
