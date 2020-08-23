@@ -21,3 +21,4 @@
 - [Resources: Program Synthesis](../notes/2020-08-20-121319.md)
 - [PL杂烩](../notes/2020-08-21-125052.md)
 - [Youtube: Type Inference & Unification](../notes/2020-08-21-125502.md)
+- [LLVM 环境安装与入门](../notes/2020-08-23-034742.md)
