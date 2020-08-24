@@ -23,3 +23,5 @@
 - [Youtube: Type Inference & Unification](../notes/2020-08-21-125502.md)
 - [LLVM 环境安装与入门](../notes/2020-08-23-034742.md)
 - [Zookeeper](../notes/2020-08-24-011452.md)
+- [知乎文章: LLVM Pass入门导引](../notes/2020-08-24-090122.md)
+- [LLVM 官方文档: Writing an LLVM Pass](../notes/2020-08-24-090314.md)
