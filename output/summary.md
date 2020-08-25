@@ -25,3 +25,4 @@
 - [Zookeeper](../notes/2020-08-24-011452.md)
 - [知乎文章: LLVM Pass入门导引](../notes/2020-08-24-090122.md)
 - [LLVM 官方文档: Writing an LLVM Pass](../notes/2020-08-24-090314.md)
+- [LLVM Pass 实现例子](../notes/2020-08-25-101225.md)
