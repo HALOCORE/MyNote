@@ -28,3 +28,4 @@
 - [官方文档：Zookeeper Overview &  Getting Started Guide](../notes/2020-08-25-015253.md)
 - [SoC Security Students Group](../notes/2020-08-25-034023.md)
 - [LLVM Pass 实现例子](../notes/2020-08-25-101225.md)
+- [Heapcon 2019: Automated  Program Generation from Input-Output Examples (PROSE, Microsoft)](../notes/2020-08-27-093727.md)
