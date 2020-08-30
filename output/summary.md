@@ -31,3 +31,4 @@
 - [Heapcon 2019: Automated  Program Generation from Input-Output Examples (PROSE, Microsoft)](../notes/2020-08-27-093727.md)
 - [Tools Sharing](../notes/2020-08-28-015340.md)
 - [【Paper】FlashMeta: A Framework for Inductive Program Synthesis](../notes/2020-08-29-100231.md)
+- [Mathematical Logic 有关概念](../notes/2020-08-30-041943.md)
