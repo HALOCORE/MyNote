@@ -32,3 +32,4 @@
 - [Tools Sharing](../notes/2020-08-28-015340.md)
 - [【Paper】FlashMeta: A Framework for Inductive Program Synthesis](../notes/2020-08-29-100231.md)
 - [Mathematical Logic 有关概念](../notes/2020-08-30-041943.md)
+- [SMT / SAT 相关资源](../notes/2020-08-31-120239.md)
