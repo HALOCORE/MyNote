@@ -34,3 +34,4 @@
 - [Mathematical Logic 有关概念](../notes/2020-08-30-041943.md)
 - [SMT / SAT 相关资源](../notes/2020-08-31-120239.md)
 - [Program Synthesis Papers 速览](../notes/2020-09-01-093707.md)
+- [【论文阅读】S&P 2019 SoK: Sanitizing for Security](../notes/2020-09-02-111847.md)
