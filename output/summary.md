@@ -38,3 +38,4 @@
 - [C++ debugging](../notes/2020-09-04-042242.md)
 - [Security: Return-Oriented Programming](../notes/2020-09-04-113731.md)
 - [Adversarial ML](../notes/2020-09-12-013317.md)
+- [NLP](../notes/2020-09-13-043652.md)
