@@ -39,3 +39,5 @@
 - [Security: Return-Oriented Programming](../notes/2020-09-04-113731.md)
 - [Adversarial ML](../notes/2020-09-12-013317.md)
 - [NLP](../notes/2020-09-13-043652.md)
+- [Deep Learning 有关概念](../notes/2020-09-14-104113.md)
+- [GAN](../notes/2020-09-15-012523.md)
