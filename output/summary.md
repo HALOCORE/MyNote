@@ -43,3 +43,4 @@
 - [GAN](../notes/2020-09-15-012523.md)
 - [Binary Security](../notes/2020-09-15-045922.md)
 - [seq2seq models](../notes/2020-10-02-010636.md)
+- [NLP ^ PL](../notes/2020-10-06-085119.md)
