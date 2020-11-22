@@ -49,3 +49,6 @@
 - [Windows Terminal](../notes/2020-10-21-102402.md)
 - [PyTorch](../notes/2020-10-21-105643.md)
 - [mininet](../notes/2020-10-21-125911.md)
+- [Generalization bound @ ML](../notes/2020-10-28-041736.md)
+- [VC Dimension](../notes/2020-11-03-105922.md)
+- [Meta / Advice / Guidance](../notes/2020-11-19-020715.md)

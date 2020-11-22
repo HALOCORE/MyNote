@@ -1,5 +1,5 @@
 # MyNote
-Personal Notes. Markdown files.
+Personal Notes. Markdown files. (public)
 
 ## Summary
 
@@ -15,3 +15,4 @@ $filename = $usedate + ".md"
 $filepath = New-Item -name $filename -ItemType file
 $filepath
 ```
+
