@@ -52,3 +52,5 @@
 - [Generalization bound @ ML](../notes/2020-10-28-041736.md)
 - [VC Dimension](../notes/2020-11-03-105922.md)
 - [Meta / Advice / Guidance](../notes/2020-11-19-020715.md)
+- [Git & Github](../notes/2020-11-24-033736.md)
+- [Machine Learning 有关概念](../notes/2020-11-24-033930.md)
