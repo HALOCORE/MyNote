@@ -54,3 +54,4 @@
 - [Meta / Advice / Guidance](../notes/2020-11-19-020715.md)
 - [Git & Github](../notes/2020-11-24-033736.md)
 - [Machine Learning 有关概念](../notes/2020-11-24-033930.md)
+- [CSE291 Program Synthesis (By Nadia Polikarpova)](../notes/2020-12-09-040130.md)cd 
