@@ -1,0 +1,6 @@
+https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6
+Offensive Security Guide to SSH Tunnels and Proxies
+
+https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts
+
+The main method is to use an SSH connection to forward the SSH protocol through one or more jump hosts, using the ProxyJump directive, to an SSH server running on the target destination host. This is the most secure method because encryption is end-to-end. In addition to whatever other encryption goes on, the end points of the chain encrypt and decrypt each other's traffic. 
